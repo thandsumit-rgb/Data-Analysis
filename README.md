@@ -347,7 +347,7 @@ business performance.
 
 # 👤 Author
 
-**Sumit Thander**
+**Sumit Thandar**
 
 MBA Student | Aspiring Data / Business Analyst
 
